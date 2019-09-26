@@ -1,0 +1,16 @@
+# node modules
+node_modules
+
+# ignore transpiled files
+packages/*/lib
+
+/dist
+/cache
+/publish
+*.xml
+*.rar
+*.html
+*.tsbuildinfo
+api.txt
+.env
+db-connection.json
